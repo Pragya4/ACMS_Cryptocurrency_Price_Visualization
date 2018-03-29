@@ -19,7 +19,8 @@ To visualize data of all 5 cryptocurrency over a day:
 	URL:http://127.0.0.1:5000/AllGraphs/month/
 
 General conviniences:
-	Crawl over the datapoints in the graph for better readability
-	If you want some cryptocurrency to be removed from comparison chart,click on its 'denoting color' on Right side of graph
-Graph is in SVG format(downloadable for further references)
+	Crawl over the datapoints in the graph for better readability.
+	If you want some cryptocurrency to be removed from comparison chart,click on its 'denoting color' on Right side of graph.
+
+Graph is in SVG format(Open in browser or downloadable for further references)
 	
